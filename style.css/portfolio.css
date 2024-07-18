@@ -55,7 +55,8 @@ a{
 }
 .banner-description {
     font-size: 16px;
-    color: #0D1321;
+     color: #0D1321;
+     opacity: 70%;
 }
 .btn-number-one{
     font-size: 20px;
@@ -64,6 +65,7 @@ a{
     background-color: #0D1321;
     padding:21px 24px ;
 align-items: center;
+
 ;
 }
 .abba-of-banner{
@@ -74,6 +76,81 @@ align-items: center;
     background-image: url(../B10A1-Challenge-Begins-main/assets/Hero-bg.png);
     width: 1440px;
     height: 652px;
+    /* why web development section */
     
 }
+.title1{
+    text-align: center;
+    font-size: 32px;
+}
+.description1{
+    text-align: center;
+    opacity: 70%;
+}
+.abba-of-1st-phase{
+    gap: 344px;
+}
+.description2{
+    opacity: 70%;
+
+}
+.description3{
+    opacity: 70%;
+
+}
+.description4{
+    opacity: 70%;
+}
+.abba-of-1st-phase{
+    display: flex;
+    gap: 98.83px;
+}
+.title2{
+    font-size: 24px;
+    color: #0D1321;
+    opacity: 70%;
+}
+.title3{
+    font-size: 24px;
+    opacity: 70%;
+}
+.title4{
+    font-size: 24px;
+    opacity: 70%;
+}
+.btn-number-three{
+    font-size: 20px;
+    opacity: 70%;
+}
+.abba-of-2nd-phase{
+    display: flex;
+    gap: 32px;
+    
+}
+.abba-of-3rd-phase{
+    display: flex;
+    gap: 133px;
+}
+.margin-main{
+    margin-left: 245px;
+    margin-right: 249px;
+}
+.margin2{
+    gap: 32px;
+}
+.margin3{
+    margin-top: 154px;
+}
+.boroabba-of-main{
+   
+}
+.btn-number-four{
+  font-size: 20px;
+  opacity: 70%;
+}
+.btn-number-five{
+    font-size: 20px;
+    opacity: 70%;
+}
+
 
