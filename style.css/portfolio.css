@@ -9,7 +9,10 @@
 }
 
 .header-title{
-    font-size: 28px;
+    font-size: 30px;
+    margin-left: 120px;
+    font-weight: 1000;
+    opacity: 95%;
 }
 ul{
     text-decoration: none;
@@ -27,7 +30,7 @@ li{
 .resume-color{
     color: yellow;
 }
-a{
+.btn-container{
     text-decoration: none;
     color: #0D1321;
     font-size: 20px;
@@ -37,6 +40,7 @@ a{
     border: 1px solid #0D1321;
     border-radius: 6px;
     padding: 17px 24px;
+    opacity: 70%;
 }
 .banner-profile{
     width: 240.28px;
@@ -152,5 +156,226 @@ align-items: center;
     font-size: 20px;
     opacity: 70%;
 }
+
+/* <!-- My Inspiration Section--> */
+.abba-of-inspiration{
+margin-top: 90px;
+}
+
+.title-of-inspiration{
+    font-size: 32px;
+    font-weight: 1000px;
+    text-align: center;
+    margin-right: 296px;
+    margin-left: 292px;
+}
+.description1-of-inspiration{
+    font-size: 16px;
+    opacity: 70%;
+    text-align: center;
+    margin-right: 296px;
+    margin-left: 292px;
+}
+.abba-of-iframe{
+    margin-top: 48px;
+    text-align: center;
+    
+   
+    
+    
+}
+.target-title{
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+
+}
+.target-description{
+    font-size:16px;
+    opacity: 70%;
+    text-align: center;
+    margin-bottom: 38px;
+}
+/* Language section */
+
+ .abba-of-language{ 
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+   
+
+
+
+/* 
+    .skilled{
+        padding: 24px;
+        border-radius: 5px;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        
+      } */
+        
+}
+
+
+/* html */
+
+.html-container{
+    width: 300px;
+    height: 244px;
+    margin-right: 20px;
+    background-color:#fff0f0;
+    opacity: 100;
+    
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: rgba(2, 74, 146, 0.2) 0px 8px 24px;
+    
+
+}
+.html-header{
+    text-align: left;
+    /* justify-items: start; */
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 40px;
+    opacity: 100;
+}
+.html-icon{
+    text-align: left;
+    opacity: 100;
+}
+.html-description{
+    opacity: 70%;
+    margin-bottom: 35px;
+}
+.html-button{
+    text-align: left;
+}
+/* css */
+
+.css-container{
+    width: 300px;
+    height: 244px;
+    gap: 200px;
+    background-color:rgb(219, 227, 246);
+    margin-right: 20px;
+    
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: rgba(2, 74, 146, 0.2) 0px 8px 24px;
+}
+.css-header{
+    text-align: left;
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 40px
+  
+}
+.css-button{
+    text-align: left;
+}
+.css-description{
+    opacity: 70%;
+    margin-bottom: 55px;
+}
+.js-container{
+    width: 300px;
+    height: 244px;
+    gap: 200px;
+    background-color:#fffeea;
+    
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: rgba(2, 74, 146, 0.2) 0px 8px 24px;
+
+}
+.js-description{
+    opacity: 70%;
+}
+.js-header{
+    font-size: 25px;
+    text-align: left;
+    margin-left: 38px
+    ;
+}
+.js-button{
+text-align: left;
+}
+
+
+
+
+
+
+.abba-of-footer{
+    margin-top: 344px;
+background-image: url("../B10A1-Challenge-Begins-main/assets/handshake.jpg");
+padding: 34px;
+background-position: center;
+margin: 150px 150px;
+height: 340px;
+}
+.abba-of-form{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    
+}
+.btn-number-six{
+
+    color: #0D1321;
+    font-weight: 800;
+    padding: 10px;
+    font-size: 28px;
+    border-radius: 9px;
+    margin-top: 23px;
+  
+}
+.footer-title{
+    color: white;
+    font-size: 35px;
+  
+}
+.text{
+    width: 633px;
+    height: 60px;
+    text-align: center;
+    margin-left: 250px;
+    border-radius: 10px;
+margin-top: 23px;
+font-size: 20px;
+ font-family: monospace;
+}
+.footer-description{
+    color: white;
+    opacity: 70%;
+    font-size: 20px;
+}
+
+.abba-of-container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.title-description{
+    
+}
+.another-abba-of-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-title-2{
+    margin-left: 100px;
+}
+.footer-icon{
+    margin-right: 100px;
+}
+.placeholder{
+    text-align: left;
+}
+
+
 
 
