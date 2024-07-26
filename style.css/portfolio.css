@@ -69,6 +69,7 @@ li{
     background-color: #0D1321;
     padding:21px 24px ;
 align-items: center;
+cursor: pointer;
 
 ;
 }
@@ -277,6 +278,7 @@ margin-top: 90px;
 .css-description{
     opacity: 70%;
     margin-bottom: 55px;
+   
 }
 .js-container{
     width: 300px;
@@ -300,6 +302,8 @@ margin-top: 90px;
 }
 .js-button{
 text-align: left;
+
+
 }
 
 
@@ -374,6 +378,11 @@ font-size: 20px;
 }
 .placeholder{
     text-align: left;
+}
+.bookmark-button{
+    background-color: #0D1321;
+    width: 100px;
+    color: white;
 }
 
 
